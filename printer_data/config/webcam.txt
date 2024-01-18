@@ -1,0 +1,7 @@
+camera="usb"
+
+camera_usb_options="-r 1024x768 -f 25"
+
+(this is the line to change, btw BUT. I found changing it broke it more)
+
+camera_streamer=camera-streamer
